@@ -138,3 +138,6 @@ article p {
 h2 + p {
     margin-top: 0;
 }
+p {
+    padding: 6px 0;
+}
